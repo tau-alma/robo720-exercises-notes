@@ -1,7 +1,7 @@
 These exercises serve as introduction to Eigen for linear algebra and KDL for kinematic and dynamics solver
 ## Exercise 1: forward kinematics
 ---
-![[assets/advanced-robotics-exercise-1.drawio.svg]]2 DoF robot manipulator with joints $q_{1}$ and $q_{2}$ is given. Write position of end effector (FK), $x_{tip}$ using both KDL and Eigen:
+![][assets/advanced-robotics-exercise-1.drawio.svg]2 DoF robot manipulator with joints $q_{1}$ and $q_{2}$ is given. Write position of end effector (FK), $x_{tip}$ using both KDL and Eigen:
 1) both joints, $q_{1}$ and $q_{2}$ are revolute
 2) $q_{1}$ is revolute but $q_{2}$ is prismatic
 
