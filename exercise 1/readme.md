@@ -26,7 +26,7 @@ To run these examples:
 - What else KDL and Eigen library can do that you might use during the course ?
 
 ## Exercise 3: controllers
-You will be writing your own controllers during the courses. There are example controller available in sim environment repo![edu_franka_simulation](https://github.com/tau-alma/edu-franka_simulation)
+You will be writing your own controllers during the courses. There are example controller available in sim environment repo ![edu_franka_simulation](https://github.com/tau-alma/edu-franka_simulation)
 
 - What controllers are available ?
 - Where is the main controller loop and how does it work ?
