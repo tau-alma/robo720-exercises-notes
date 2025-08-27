@@ -9,15 +9,15 @@
 
 Templates for both KDL and Eigen are provided in src/.
 
-To run these examples:
+To run these examples. First create ros2 package and then:
 
 `colcon build` 
 
 
-`ros2 run eigen_kld_examples kdl`
+`ros2 run {your_package_name} kdl`
 
 
-`ros2 run eigen_kdl_examples eigen`
+`ros2 run {your_package_name} eigen`
 
 
 ## Exercise 2: library 
